@@ -120,6 +120,7 @@ body{
    margin: 0px;
 }
 
+
 .commit{
    margin-bottom: 255px;
 }
@@ -147,6 +148,9 @@ body{
    color: #333D4B;
    margin-bottom: 2rem;
 }
+.commit__paragraph-case{
+   width: 539px;
+}
 .commit__paragraph{
    font-family: "Barlow";
    font-style: normal;
@@ -155,6 +159,7 @@ body{
    line-height: 26px;
    color: #333D4B;
    opacity: 0.8;
+   margin: 0px;
 }
 
 .quality{
@@ -239,8 +244,10 @@ body{
    font-size: 32px;
    line-height: 36px;
    color: #333D4B;
+   margin-top: 0px;
+   margin-bottom: 24px;
 }
-.quarters__description{
+.quarters__address{
    font-family: "Barlow";
    font-style: normal;
    font-weight: normal;
@@ -249,6 +256,9 @@ body{
    color: #333D4B;
 }
 
+.footer{
+   margin-bottom: 88px;
+}
 .footer__box{
    background-color: #2C343E;
    display: flex;
